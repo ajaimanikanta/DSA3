@@ -3,25 +3,25 @@
 ==============================================
 
 ----------------------------------------------
-EMAIL : user5@gmail.com
+EMAIL : user500@gmail.com
 Message ID : 1
-Subject : Guaranteed profit in 7 days
-Message : Invest now and double your money in 7 days. Guaranteed returns with our crypto plan. Join at http://free-gift.click/offer.
+Subject : Team lunch this Saturday
+Message : We are planning a team lunch this Saturday. Let me know your food preference by Thursday.
 
-Classification : SPAM
-Category : GENERAL SPAM
-Confidence : 100.00%
-Risk Level : HIGH
-Spam Score : 12
-Keywords : [free, free gift, double your money, guaranteed profit, guaranteed returns, guaranteed]
-URLs : [http://free-gift.click/offer]
-Suspicious URLs : [http://free-gift.click/offer]
+Classification : NOT SPAM
+Category : NOT SPAM
+Confidence : 0.00%
+Risk Level : LOW
+Spam Score : 0
+Keywords : []
+URLs : []
+Suspicious URLs : []
 
 ----------------------------------------------
-EMAIL : user5@gmail.com
+EMAIL : user500@gmail.com
 Message ID : 2
-Subject : Your KYC has expired
-Message : Dear customer, your HDFC Bank KYC has expired. Share your PAN number and OTP to keep your account active.
+Subject : Project files updated
+Message : I uploaded the latest project files to the shared folder. Please review them and share your feedback.
 
 Classification : NOT SPAM
 Category : NOT SPAM
@@ -33,55 +33,25 @@ URLs : []
 Suspicious URLs : []
 
 ----------------------------------------------
-EMAIL : user5@gmail.com
+EMAIL : user500@gmail.com
 Message ID : 3
-Subject : Your SBI account is suspended
-Message : We noticed unusual activity. Confirm your card number and OTP at http://free-gift.click/offer within 24 hours or your account will be closed.
-
-Classification : SPAM
-Category : GENERAL SPAM
-Confidence : 66.67%
-Risk Level : HIGH
-Spam Score : 8
-Keywords : [free, free gift]
-URLs : [http://free-gift.click/offer]
-Suspicious URLs : [http://free-gift.click/offer]
-
-----------------------------------------------
-EMAIL : user5@gmail.com
-Message ID : 4
-Subject : Claim your prize before midnight
-Message : This is your last chance to claim an iPhone 15. Click http://tinyurl.com/4hj8k now or lose it forever.
-
-Classification : SPAM
-Category : GENERAL SPAM
-Confidence : 66.67%
-Risk Level : HIGH
-Spam Score : 8
-Keywords : [last chance, claim your prize]
-URLs : [http://tinyurl.com/4hj8k]
-Suspicious URLs : []
-
-----------------------------------------------
-EMAIL : user5@gmail.com
-Message ID : 5
 Subject : Lowest loan rates
-Message : Lowest loan rates guaranteed. Get up to $5,000 with no credit check and instant approval. Apply at http://free-gift.click/offer.
+Message : Lowest loan rates guaranteed. Get up to $50,000 with no credit check and instant approval. Apply at http://claim-now.xyz/win.
 
 Classification : SPAM
 Category : GENERAL SPAM
-Confidence : 100.00%
+Confidence : 66.67%
 Risk Level : HIGH
-Spam Score : 12
-Keywords : [free, free gift, guaranteed]
-URLs : [http://free-gift.click/offer]
-Suspicious URLs : [http://free-gift.click/offer]
+Spam Score : 8
+Keywords : [claim now, guaranteed]
+URLs : [http://claim-now.xyz/win]
+Suspicious URLs : [http://claim-now.xyz/win]
 
 ----------------------------------------------
-EMAIL : user5@gmail.com
-Message ID : 6
-Subject : Holiday announcement
-Message : The college will remain closed on Saturday due to a local holiday. Classes will resume the next day.
+EMAIL : user500@gmail.com
+Message ID : 4
+Subject : Internship update
+Message : How is your internship going? Let me know if you need any help with the project report.
 
 Classification : NOT SPAM
 Category : NOT SPAM
@@ -93,25 +63,10 @@ URLs : []
 Suspicious URLs : []
 
 ----------------------------------------------
-EMAIL : user5@gmail.com
-Message ID : 7
-Subject : Congratulations, you are a winner!
-Message : Your email was picked in our lucky draw. You have won an Amazon gift card of $500. Reply with your bank details to receive it.
-
-Classification : SPAM
-Category : FINANCIAL SCAM
-Confidence : 100.00%
-Risk Level : HIGH
-Spam Score : 12
-Keywords : [bank details, winner, you are a winner, you have won, congratulations]
-URLs : []
-Suspicious URLs : []
-
-----------------------------------------------
-EMAIL : user5@gmail.com
-Message ID : 8
-Subject : Leave
-Message : I dont need leave boss.
+EMAIL : user500@gmail.com
+Message ID : 5
+Subject : Meeting rescheduled
+Message : Today's meeting has been moved to 9 AM on Wednesday. Kindly confirm your availability.
 
 Classification : NOT SPAM
 Category : NOT SPAM
@@ -125,5 +80,5 @@ Suspicious URLs : []
 ==============================================
 SUMMARY
 ==============================================
-Total Messages : 8 | Spam : 5 | Not Spam : 3
-Spam Percentage : 62.50%
+Total Messages : 5 | Spam : 1 | Not Spam : 4
+Spam Percentage : 20.00%
